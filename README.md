@@ -7,7 +7,7 @@
 
 <p align="left">Hi!  My name is Julien Mellon.  I am a software engineer in Brooklyn, NY with a deep interest in the development of interfaces that help people solve real-world problems with customizable tools.  While working with theatre systems and the myriad of rigging, electrical, and audio devices that all work together to make art come alive on a stage, I developed my first JavaScript program to assist me in the operation of a theater counterweight fly system.  The program helped me remove guesswork from my workflow, and allowed me to implement a system that offered better physical safety for everyone involved.
 
-I still enjoy spending my time solving the problems that stand in between dreamers and their visions.  Having worked with companies from every habitable continent on Earth has taught me that when the work is worthwhile, it is always better when we decide that we should do that work together.
+I still enjoy spending my time solving the problems that stand in between dreamers and their visions.  Having worked with companies from every habitable continent on Earth has taught me that when the work is worthwhile, it is always better when we decide that we should do that work *together*.
  </p>
 
 <h3 align="left">Connect with me:</h3>
