@@ -66,6 +66,4 @@ I still enjoy spending my time solving the problems that stand in between dreame
 
 <br>
 
-///////////
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=julienmellon&theme=merko&hide_border=true)](https://git.io/streak-stats)
