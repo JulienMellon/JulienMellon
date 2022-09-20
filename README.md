@@ -20,7 +20,7 @@ I still enjoy spending my time solving the problems that stand in between dreame
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Winnie The Pooh API</h3>
+      <h3 align="center">Winnie The Pooh REST API</h3>
         <br>
         <a target="_blank" href="https://poohquotes.herokuapp.com/">
             <img src="https://cdn.discordapp.com/attachments/946850401536319571/1021022470016344064/unknown.png" width="100%" alt="Winnie-The-Pooh App Screenshot">
