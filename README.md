@@ -57,7 +57,24 @@ I still enjoy spending my time solving the problems that stand in between dreame
     </td>
   </tr>
   
-  <
+  <td width="50%">
+<h3 align="center" color="white">🍕Too Hungry To Decide!🍕</h2>
+<div align="center" >  
+<a href='#'>
+<img src="https://github.com/paryswest/_pizza-generator/blob/e36e853cd3a0f587332faf84a4c5062acc067955/Pizzarandomizer.gif" alt="" height="auto" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<!-- <a href="https://github.com/ssaryonjr" target="_blank">
+<img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+</a>  
+<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+</a>
+</p>
+<p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, (Implementation including Express.js coming soon!)</strong> - Full stack application helping our hungry pizza lovers pick out toppings on their pizza, because they are...."Too Hungry, to Decide". </p>
+</div>
 </table>
 
 <br>
