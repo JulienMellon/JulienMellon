@@ -66,11 +66,11 @@ I still enjoy spending my time solving the problems that stand in between dreame
 <br>
 <br>
 <p>
-<!-- <a href="https://github.com/ssaryonjr" target="_blank">
+<a href="https://github.com/paryswest/_pizza-generator" target="_blank">
 <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
 </a>  
-<a href="https://ssjrmovieapi.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/> -->
+<a href="https://pizza-generator-api.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=D14836"/>
 </a>
 </p>
 <p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, (Implementation including Express.js coming soon!)</strong> - Full stack application helping our hungry pizza lovers pick out toppings on their pizza, because they are...."Too Hungry, to Decide". </p>
