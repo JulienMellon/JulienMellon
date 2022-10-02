@@ -73,7 +73,7 @@ I still enjoy spending my time solving the problems that stand in between dreame
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
 </a>
 </p>
-<p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, (Implementation including Express.js coming soon!)</strong> - Full stack application helping our hungry pizza lovers pick out toppings on their pizza, because they are...."Too Hungry, to Decide". </p>
+<p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, (Implementation including Express.js coming soon!)</strong> - A web application for helping our hungry pizza lovers pick out toppings on their pizza, because they are...."Too Hungry, to Decide". </p>
 </div>
 </td>
 <!-- new item starts here -->
