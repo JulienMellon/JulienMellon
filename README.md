@@ -76,11 +76,11 @@ I still enjoy spending my time solving the problems that stand in between dreame
 <p><strong>HTML5, CSS3, Figma, JavaScript, Node.js, (Implementation including Express.js coming soon!)</strong> - A web application for helping our hungry pizza lovers pick out toppings on their pizza, because they are...."Too Hungry, to Decide". </p>
 </div>
 </td>
-<!-- new item starts here -->
+<!-- petvax starts here -->
 <td width="50%">
 <h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
 <div align="center" >  
-<a href='https://petvax.herokuapp.com/'>
+<a href='https://petvax.cyclic.app/'>
 <img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
 </a>
 <br>
