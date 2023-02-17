@@ -19,6 +19,27 @@ I still enjoy spending my time solving the problems that stand in between dreame
 <table bordercolor="#66b2b2">
   
   <tr>
+   
+   <td width="50%">
+<h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
+<div align="center" >  
+<a href='https://petvax.cyclic.app/'>
+<img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/julienmellon/petvax" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+</a>  
+<a href="https://petvax.herokuapp.com/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+</a>
+</p>
+<p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
+</div>
+</td>
+   
     <td width="50%" valign="top">
       <h3 align="center">Winnie The Pooh REST API</h3>
         <br>
@@ -77,25 +98,7 @@ I still enjoy spending my time solving the problems that stand in between dreame
 </div>
 </td>
 <!-- petvax starts here -->
-<td width="50%">
-<h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
-<div align="center" >  
-<a href='https://petvax.cyclic.app/'>
-<img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/julienmellon/petvax" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-</a>  
-<a href="https://petvax.herokuapp.com/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-</a>
-</p>
-<p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
-</div>
-</td>
+
 </tr>
 
 </table>
