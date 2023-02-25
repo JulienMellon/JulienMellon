@@ -106,6 +106,8 @@ Having worked with companies from every habitable continent on Earth has taught 
 
 [![@julienmellon's Holopin board](https://holopin.me/julienmellon)](https://holopin.io/@julienmellon)
 
+[![Codewars Badge](https://www.codewars.com/users/JulienMellon/badges/large)](https://www.codewars.com/users/JulienMellon)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
