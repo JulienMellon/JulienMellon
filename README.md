@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://julienmellon.netlify.app](https://julienmellon.netlify.app)
 
+- Check out my statically generated blog at [blog-julienmellon.vercel.app](https://blog-julienmellon.vercel.app/)
+
 - 📫 How to reach me **mellon.julien@gmail.com**
 
 <p align="left">Hi!  My name is Julien Mellon.  I am a software engineer in Brooklyn, NY with a deep interest in the development of interfaces that help people solve real-world problems with customizable tools.  I'm currently building web based tools for theatrical lighting and rigging.  
