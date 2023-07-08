@@ -91,7 +91,7 @@ Having worked with companies from every habitable continent on Earth has taught 
 <a href="https://github.com/julienmellon/petvax" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
 </a>  
-<a href="[https://petvax.cyclic.app/](https://petvax.cyclic.app/)" target="_blank">
+<a href="https://petvax.cyclic.app/" target="_blank">
 <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
 </a>
 </p>
