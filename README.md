@@ -38,26 +38,25 @@
         <p><strong>Node, Express, JavaScript</strong> - This REST API responds to a GET request and serves quotes from *Winnie-The-Pooh* by A.A. Milne</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Tasty Pizza</h3>
-        <br>
-      <a target="_blank" href="https://tastypizzanyc.netlify.app/">
-            <img src="https://media.giphy.com/media/vR4Jq0MALmyg91trzr/giphy.gif" width="100%"  alt="Tasty Pizza Screenshot"/>
-        </a>
-        <br>
-        <p align="center">
-          
-  <a href="https://github.com/JulienMellon/tasty-pizza/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://tastypizzanyc.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A pretty frontend for a pizza shop.</p>
-    </td>
-  </tr>
-  <tr>
-  <td width="50%">
+      
+      <h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
+<div align="center" >  
+<a href='https://petvax.cyclic.app/'>
+<img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
+</a>
+<br>
+<br>
+<p>
+<a href="https://github.com/julienmellon/petvax" target="_blank">
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+</a>  
+<a href="https://petvax.cyclic.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+</a>
+</p>
+<p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
+</div>
+  
 <h3 align="center" color="white">🍕Too Hungry To Decide!🍕</h2>
 <div align="center" >  
 <a href='https://pizza-generator-api.herokuapp.com/'>
@@ -78,23 +77,29 @@
 </td>
 
 <td width="50%">
-<h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
-<div align="center" >  
-<a href='https://petvax.cyclic.app/'>
-<img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/julienmellon/petvax" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-</a>  
-<a href="https://petvax.cyclic.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-</a>
-</p>
-<p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
-</div>
+  
+
+  <h3 align="center">Tasty Pizza</h3>
+        <br>
+      <a target="_blank" href="https://tastypizzanyc.netlify.app/">
+            <img src="https://media.giphy.com/media/vR4Jq0MALmyg91trzr/giphy.gif" width="100%"  alt="Tasty Pizza Screenshot"/>
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/JulienMellon/tasty-pizza/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://tastypizzanyc.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A pretty frontend for a pizza shop.</p>
+    </td>
+  </tr>
+  <tr>
+  <td width="50%">
+  
 </td>
 
 </tr>
