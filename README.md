@@ -38,22 +38,23 @@
         <p><strong>Node, Express, JavaScript</strong> - This REST API responds to a GET request and serves quotes from *Winnie-The-Pooh* by A.A. Milne</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Tasty Pizza</h3>
-        <br>
-      <a target="_blank" href="https://tastypizzanyc.netlify.app/">
-            <img src="https://media.giphy.com/media/vR4Jq0MALmyg91trzr/giphy.gif" width="100%"  alt="Tasty Pizza Screenshot"/>
+      <h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
+      <div align="center" >  
+        <a href='https://petvax.cyclic.app/'>
+          <img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
         </a>
         <br>
-        <p align="center">
-          
-  <a href="https://github.com/JulienMellon/tasty-pizza/" target="_blank">
-    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://tastypizzanyc.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-  </a>
-      </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - A pretty frontend for a pizza shop.</p>
+        <br>
+        <p>
+          <a href="https://github.com/julienmellon/petvax" target="_blank">
+            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+          </a>  
+            <a href="https://petvax.cyclic.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+          </a>
+        </p>
+        <p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
+      </div>
     </td>
   </tr>
   <tr>
@@ -78,24 +79,24 @@
 </td>
 <!-- petvax starts here -->
 <td width="50%">
-<h3 align="center" color="white">PetVax - Pet Vaccination Passport</h2>
-<div align="center" >  
-<a href='https://petvax.cyclic.app/'>
-<img src="https://cdn.discordapp.com/attachments/946850401536319571/1026244917623803965/Screenshot_2022-10-02_173037.jpg" alt="" height="auto" width="100%" />
-</a>
-<br>
-<br>
-<p>
-<a href="https://github.com/julienmellon/petvax" target="_blank">
-<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
-</a>  
-<a href="https://petvax.cyclic.app/" target="_blank">
-<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
-</a>
-</p>
-<p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
-</div>
+<h3 align="center">Tasty Pizza</h3>
+        <br>
+      <a target="_blank" href="https://tastypizzanyc.netlify.app/">
+            <img src="https://media.giphy.com/media/vR4Jq0MALmyg91trzr/giphy.gif" width="100%"  alt="Tasty Pizza Screenshot"/>
+        </a>
+        <br>
+        <p align="center">
+          
+  <a href="https://github.com/JulienMellon/tasty-pizza/" target="_blank">
+    <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://tastypizzanyc.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A pretty frontend for a pizza shop.</p>
 </td>
+<!-- petvax block ends here -->
 </tr>
 
 </table>
@@ -114,3 +115,5 @@
 <a href="https://twitter.com/julienmellon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="julienmellon" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/julienmellon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julienmellon" height="30" width="40" /></a>
 </p>
+
+
