@@ -54,6 +54,7 @@
           </a>
         </p>
         <p><strong>Node.js, Express.js, MongoDB, EJS Embedded JavaScript, Passport.js, Tailwind CSS + DaisyUI, JavaScript, Cloudinary</strong> - Full stack web application for storing your pet's vaccination records </p>
+        <br>
       </div>
     </td>
   </tr>
