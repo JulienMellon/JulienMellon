@@ -31,7 +31,7 @@
   <a href="https://github.com/JulienMellon/pooh-quotes-api" target="_blank">
     <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github">
   </a>  
-  <a href="https://poohquotes.herokuapp.com/" target="_blank">
+  <a href="https://poohquotes.cyclic.app/" target="_blank">
     <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=243964">
   </a>
       </p>
