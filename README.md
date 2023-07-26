@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Julien Mellon</h1>
-<h3 align="center">A New York City Based Software Engineer</h3>
+<h3 align="center">A New York City Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [https://julienmellon.netlify.app](https://julienmellon.netlify.app)
+- 👨‍💻 I have a little portfolio of web projects available at [https://julienmellon.netlify.app](https://julienmellon.netlify.app)
 
 - Check out my statically generated blog at [blog-julienmellon.vercel.app](https://blog-julienmellon.vercel.app/)
 
 - 📫 How to reach me **mellon.julien@gmail.com**
 
-<p align="left">Hi!  My name is Julien Mellon.  I am a software engineer in Brooklyn, NY with a deep interest in the development of interfaces that help people solve real-world problems with customizable tools.  I'm currently building web based tools for theatrical lighting and rigging.  
-
-Having worked with companies from every habitable continent on Earth has taught me that when the work is worthwhile, it is always better when we decide that we should do that work *together*.
- </p>
+<p align="left">Hi!  My name is Julien.  I am a software engineer in Brooklyn, NY.  I have two cute dogs and I love the beach
+</p>
 
 
 
