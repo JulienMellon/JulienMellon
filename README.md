@@ -3,7 +3,9 @@
 
 - 👨‍💻 I have a little portfolio of web projects available at [https://julienmellon.netlify.app](https://julienmellon.netlify.app)
 
-- Check out my statically generated blog at [blog-julienmellon.vercel.app](https://blog-julienmellon.vercel.app/)
+- Check out my blog at [blog.julienmellon.com](https://blog.julienmellon.com/)
+
+- Link up with me on LinkedIn: [https://www.linkedin.com/in/julienmellon/](https://www.linkedin.com/in/julienmellon/)
 
 - 📫 How to reach me **mellon.julien@gmail.com**
 
