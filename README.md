@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julien Mellon</h1>
 <h3 align="center">A New York City Software Engineer</h3>
 
-- 👨‍💻 I have a little portfolio of web projects available at [https://julienmellon.netlify.app](https://julienmellon.netlify.app)
+- 👨‍💻 I have a portfolio of web projects available at [https://julienmellon.netlify.app](https://julienmellon.netlify.app)
 
 - Check out my blog at [blog.julienmellon.com](https://blog.julienmellon.com/)
 
