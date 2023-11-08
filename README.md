@@ -21,7 +21,6 @@ I like to do coding challenges too
 
 [![Codewars Badge](https://www.codewars.com/users/JulienMellon/badges/large)](https://www.codewars.com/users/JulienMellon)
 
-[![Leetcode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fjulienmellon&logo=leetcode&logoColor=yellow)](https://leetcode.com/julienmellon/)
 
 <h2 align="center">Latest Projects</h2>
 <table bordercolor="#66b2b2">
